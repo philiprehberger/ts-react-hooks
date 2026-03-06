@@ -1,7 +1,7 @@
 {
   "name": "@philiprehberger/react-hooks",
-  "version": "0.1.0",
-  "description": "Reusable React hooks for scroll lock, focus trap, and swipe gestures",
+  "version": "0.2.0",
+  "description": "Reusable React hooks - scroll lock, focus trap, swipe gestures, debounce, keyboard shortcuts, image preloading, and more",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
